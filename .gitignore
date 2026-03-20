@@ -16,6 +16,7 @@ out/
 
 CMakeCache.txt
 cmake_guide.txt
+bookmark.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
